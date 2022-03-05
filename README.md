@@ -18,3 +18,9 @@ Per the recommendation of ~lagrev-nocfep I will be using VSCodium as my IDE to s
 ```
 
 additional detail can be found here if needed: https://github.com/VSCodium/vscodium/blob/master/DOCS.md#extensions-marketplace
+
+# Open Questions
+- What is 'sugaring' in the context of hoon, specifically in the docs?
+- What is a 'single precision number' as seen the the aura `@rs`?
+
+# Answered Questions
